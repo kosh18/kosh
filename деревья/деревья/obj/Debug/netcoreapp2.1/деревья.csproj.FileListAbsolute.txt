@@ -1,0 +1,11 @@
+D:\деревья\деревья\bin\Debug\netcoreapp2.1\деревья.deps.json
+D:\деревья\деревья\bin\Debug\netcoreapp2.1\деревья.runtimeconfig.json
+D:\деревья\деревья\bin\Debug\netcoreapp2.1\деревья.runtimeconfig.dev.json
+D:\деревья\деревья\bin\Debug\netcoreapp2.1\деревья.dll
+D:\деревья\деревья\bin\Debug\netcoreapp2.1\деревья.pdb
+D:\деревья\деревья\obj\Debug\netcoreapp2.1\деревья.csprojAssemblyReference.cache
+D:\деревья\деревья\obj\Debug\netcoreapp2.1\деревья.csproj.CoreCompileInputs.cache
+D:\деревья\деревья\obj\Debug\netcoreapp2.1\деревья.AssemblyInfoInputs.cache
+D:\деревья\деревья\obj\Debug\netcoreapp2.1\деревья.AssemblyInfo.cs
+D:\деревья\деревья\obj\Debug\netcoreapp2.1\деревья.dll
+D:\деревья\деревья\obj\Debug\netcoreapp2.1\деревья.pdb
