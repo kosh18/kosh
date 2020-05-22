@@ -1,0 +1,11 @@
+D:\hash\hash\obj\Debug\netcoreapp2.1\hash.csprojAssemblyReference.cache
+D:\hash\hash\obj\Debug\netcoreapp2.1\hash.csproj.CoreCompileInputs.cache
+D:\hash\hash\obj\Debug\netcoreapp2.1\hash.AssemblyInfoInputs.cache
+D:\hash\hash\obj\Debug\netcoreapp2.1\hash.AssemblyInfo.cs
+D:\hash\hash\bin\Debug\netcoreapp2.1\hash.deps.json
+D:\hash\hash\bin\Debug\netcoreapp2.1\hash.runtimeconfig.json
+D:\hash\hash\bin\Debug\netcoreapp2.1\hash.runtimeconfig.dev.json
+D:\hash\hash\bin\Debug\netcoreapp2.1\hash.dll
+D:\hash\hash\bin\Debug\netcoreapp2.1\hash.pdb
+D:\hash\hash\obj\Debug\netcoreapp2.1\hash.dll
+D:\hash\hash\obj\Debug\netcoreapp2.1\hash.pdb
