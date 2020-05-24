@@ -1,0 +1,11 @@
+D:\23,05семинар\23,05семинар\bin\Debug\netcoreapp2.1\23,05семинар.deps.json
+D:\23,05семинар\23,05семинар\bin\Debug\netcoreapp2.1\23,05семинар.runtimeconfig.json
+D:\23,05семинар\23,05семинар\bin\Debug\netcoreapp2.1\23,05семинар.runtimeconfig.dev.json
+D:\23,05семинар\23,05семинар\bin\Debug\netcoreapp2.1\23,05семинар.dll
+D:\23,05семинар\23,05семинар\bin\Debug\netcoreapp2.1\23,05семинар.pdb
+D:\23,05семинар\23,05семинар\obj\Debug\netcoreapp2.1\23,05семинар.csprojAssemblyReference.cache
+D:\23,05семинар\23,05семинар\obj\Debug\netcoreapp2.1\23,05семинар.csproj.CoreCompileInputs.cache
+D:\23,05семинар\23,05семинар\obj\Debug\netcoreapp2.1\23,05семинар.AssemblyInfoInputs.cache
+D:\23,05семинар\23,05семинар\obj\Debug\netcoreapp2.1\23,05семинар.AssemblyInfo.cs
+D:\23,05семинар\23,05семинар\obj\Debug\netcoreapp2.1\23,05семинар.dll
+D:\23,05семинар\23,05семинар\obj\Debug\netcoreapp2.1\23,05семинар.pdb
