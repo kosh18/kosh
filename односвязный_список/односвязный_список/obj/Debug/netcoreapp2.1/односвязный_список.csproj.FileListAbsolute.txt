@@ -1,0 +1,11 @@
+D:\односвязный_список\односвязный_список\bin\Debug\netcoreapp2.1\односвязный_список.deps.json
+D:\односвязный_список\односвязный_список\bin\Debug\netcoreapp2.1\односвязный_список.runtimeconfig.json
+D:\односвязный_список\односвязный_список\bin\Debug\netcoreapp2.1\односвязный_список.runtimeconfig.dev.json
+D:\односвязный_список\односвязный_список\bin\Debug\netcoreapp2.1\односвязный_список.dll
+D:\односвязный_список\односвязный_список\bin\Debug\netcoreapp2.1\односвязный_список.pdb
+D:\односвязный_список\односвязный_список\obj\Debug\netcoreapp2.1\односвязный_список.csprojAssemblyReference.cache
+D:\односвязный_список\односвязный_список\obj\Debug\netcoreapp2.1\односвязный_список.csproj.CoreCompileInputs.cache
+D:\односвязный_список\односвязный_список\obj\Debug\netcoreapp2.1\односвязный_список.AssemblyInfoInputs.cache
+D:\односвязный_список\односвязный_список\obj\Debug\netcoreapp2.1\односвязный_список.AssemblyInfo.cs
+D:\односвязный_список\односвязный_список\obj\Debug\netcoreapp2.1\односвязный_список.dll
+D:\односвязный_список\односвязный_список\obj\Debug\netcoreapp2.1\односвязный_список.pdb
