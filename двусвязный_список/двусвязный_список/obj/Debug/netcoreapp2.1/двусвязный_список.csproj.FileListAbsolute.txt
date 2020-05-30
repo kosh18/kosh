@@ -1,0 +1,11 @@
+D:\двусвязный_список\двусвязный_список\bin\Debug\netcoreapp2.1\двусвязный_список.deps.json
+D:\двусвязный_список\двусвязный_список\bin\Debug\netcoreapp2.1\двусвязный_список.runtimeconfig.json
+D:\двусвязный_список\двусвязный_список\bin\Debug\netcoreapp2.1\двусвязный_список.runtimeconfig.dev.json
+D:\двусвязный_список\двусвязный_список\bin\Debug\netcoreapp2.1\двусвязный_список.dll
+D:\двусвязный_список\двусвязный_список\bin\Debug\netcoreapp2.1\двусвязный_список.pdb
+D:\двусвязный_список\двусвязный_список\obj\Debug\netcoreapp2.1\двусвязный_список.csprojAssemblyReference.cache
+D:\двусвязный_список\двусвязный_список\obj\Debug\netcoreapp2.1\двусвязный_список.csproj.CoreCompileInputs.cache
+D:\двусвязный_список\двусвязный_список\obj\Debug\netcoreapp2.1\двусвязный_список.AssemblyInfoInputs.cache
+D:\двусвязный_список\двусвязный_список\obj\Debug\netcoreapp2.1\двусвязный_список.AssemblyInfo.cs
+D:\двусвязный_список\двусвязный_список\obj\Debug\netcoreapp2.1\двусвязный_список.dll
+D:\двусвязный_список\двусвязный_список\obj\Debug\netcoreapp2.1\двусвязный_список.pdb
