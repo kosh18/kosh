@@ -1,0 +1,16 @@
+public static class rasshir
+{
+  public static int IndexOf<T>(this LinkedList<T> list, T find)
+  {
+    int k = -1;
+    foreach (var iter in list)
+    {
+      k++;
+
+      if (iter.Equals(find))
+      break;
+    }
+    return k;
+  }
+}
+ 
